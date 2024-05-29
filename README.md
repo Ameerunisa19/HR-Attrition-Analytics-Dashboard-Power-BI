@@ -22,11 +22,6 @@ Key features include:
 - **Statistics** 📜
 
 ### Steps Involved:
-1. **Data Collection**: Gather data from online sources.
-2. **Understanding the Data**: Familiarize with the dataset.
-3. **Loading Libraries**: Prepare tools and libraries for analysis.
-4. **Data Cleaning & Finding Missing Values**: Clean and preprocess the data.
-5. **Data Visualization**: Create visual representations of the data.
    
 ✅ **Requirement Gathering**: First of all, I understood the data in the data sets and find the business problems.
 
@@ -48,12 +43,10 @@ Key features include:
 I Used 5 KPI cards to show the Total employees, Attrition rate, Average age, Attrition rate, Active employee.
 
 ### Insights:
-▪ Total employee count is 1470 and the attrition count is 237 which is 16%
-▪ Research and development have the maximum employees attrition.
-▪ Employees in age group 25-34 leave more frequently and that too within a period of one year.
-▪It is observed males are more attrition than females in each age group.
-
-Sure, here's a hyperlink text you can use: 
+▪ Total employee count is 1470 and the attrition count is 237 which is 16%<br>
+▪ Research and development have the maximum employees attrition.<br>
+▪ Employees in age group 25-34 leave more frequently and that too within a period of one year.<br>
+▪It is observed males are more attrition than females in each age group.<br>
 
 [Click here to view my dashboard](#)
 

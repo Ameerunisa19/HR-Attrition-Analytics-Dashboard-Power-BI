@@ -47,7 +47,9 @@ I Used 5 KPI cards to show the Total employees, Attrition rate, Average age, Att
 ▪ Research and development have the maximum employees attrition.<br>
 ▪ Employees in age group 25-34 leave more frequently and that too within a period of one year.<br>
 ▪It is observed males are more attrition than females in each age group.<br>
-![image](https://github.com/Ameerunisa19/HR-Attrition-Analytics-Dashboard-Power-BI/assets/147034338/1c60be58-7695-4839-af21-f3c8c7249469)
+![HR ANALYTICS_page-0001](https://github.com/Ameerunisa19/HR-Attrition-Analytics-Dashboard-Power-BI/assets/147034338/11852c29-9e49-40cb-b813-f07112c5e030)
+![HR ANALYTICS_page-0002](https://github.com/Ameerunisa19/HR-Attrition-Analytics-Dashboard-Power-BI/assets/147034338/04214591-8b28-422d-af2f-1159bfb60a30)
+
 
 [Click here to view my dashboard](#)
 
